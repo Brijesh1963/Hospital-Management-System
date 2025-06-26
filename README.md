@@ -1,4 +1,4 @@
-📋 Project Description
+**📋 Project Description**
 **A simple and interactive Hospital Management System built using Core Java, JDBC, and MySQL, designed to manage patient records, doctors, and appointments through a command-line interface.**
 
 **This project demonstrates the use of:**
