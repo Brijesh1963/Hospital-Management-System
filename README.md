@@ -1,39 +1,36 @@
-**📋 Project Description**
-**A simple and interactive Hospital Management System built using Core Java, JDBC, and MySQL, designed to manage patient records, doctors, and appointments through a command-line interface.**
+# 🏥 Hospital Management System (Java + JDBC + MySQL)
 
-**This project demonstrates the use of:**
+A simple and modular **Hospital Management System** built using **Core Java**, **JDBC**, and **MySQL**.  
+This console-based application helps manage **patients**, **doctors**, and **appointments** in a healthcare setting. It demonstrates real-world usage of Java’s database connectivity and object-oriented principles.
 
-Object-Oriented Programming (OOP) in Java
+---
 
-MySQL database connectivity via JDBC
+## 📌 Features
 
-Basic CRUD operations (Create, Read, Update, Delete)
+- 🔹 Add and view patient records
+- 🔹 View doctor listings
+- 🔹 Book appointments (with doctor availability check)
+- 🔹 Formatted table display for better readability
+- 🔹 Fully connected to a MySQL relational database
 
-Console-based user interaction for real-time data entry and retrieval
+---
 
-**🔧 Features**
-Add and view patient details
+## 🧱 Technologies Used
 
-View doctor listings
+| Tool / Language | Purpose |
+|------------------|---------|
+| ☕ Java (JDK 20)  | Core application logic |
+| 🛢️ MySQL         | Database management |
+| 🧩 JDBC           | Java Database Connectivity |
+| 🧠 IntelliJ IDEA / VS Code | Code development & debugging |
 
-Book appointments with doctor availability check
+---
 
-MySQL database integration using JDBC
+## 📂 Project Structure
 
-Clean console UI with formatted tables
-
-**📁 Modules**
-HospitalManagementSystem.java: Main driver with menu and logic routing
-
-Patient.java: Handles patient-related operations
-
-Doctor.java: Manages doctor-related tasks and lookup
-
-🛠️ Technologies Used
-Java (JDK 20)
-
-JDBC (MySQL Connector/J)
-
-MySQL 8.x
-
-IntelliJ IDEA or VS Code
+```bash
+HospitalManagementSystem/
+├── HospitalManagementSystem.java   # Main class with menu logic
+├── Patient.java                    # Handles patient-related functions
+├── Doctor.java                     # Manages doctor records
+└── README.md                       # Project documentation
