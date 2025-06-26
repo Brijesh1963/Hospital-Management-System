@@ -1,7 +1,7 @@
 📋 Project Description
-A simple and interactive Hospital Management System built using Core Java, JDBC, and MySQL, designed to manage patient records, doctors, and appointments through a command-line interface.
+**A simple and interactive Hospital Management System built using Core Java, JDBC, and MySQL, designed to manage patient records, doctors, and appointments through a command-line interface.**
 
-This project demonstrates the use of:
+**This project demonstrates the use of:**
 
 Object-Oriented Programming (OOP) in Java
 
@@ -11,7 +11,7 @@ Basic CRUD operations (Create, Read, Update, Delete)
 
 Console-based user interaction for real-time data entry and retrieval
 
-🔧 Features
+**🔧 Features**
 Add and view patient details
 
 View doctor listings
@@ -22,7 +22,7 @@ MySQL database integration using JDBC
 
 Clean console UI with formatted tables
 
-📁 Modules
+**📁 Modules**
 HospitalManagementSystem.java: Main driver with menu and logic routing
 
 Patient.java: Handles patient-related operations
